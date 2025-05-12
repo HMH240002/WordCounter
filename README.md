@@ -1,5 +1,5 @@
 # WordCounter
-This program reads words from a text file, prints them in order, then counts and lists words starting with "s" (Case-insensitive).
+This java program reads words from a text file, prints them in order, then counts and lists words starting with "s" (Case-insensitive).
 
 # Key Points:
 Handles any number of words from the input file.
